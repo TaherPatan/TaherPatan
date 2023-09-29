@@ -92,7 +92,7 @@
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TaherPatan&theme=algolia" alt="TaherPatan" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=TaherPatan&theme=algolia" alt="TaherPatan" /></p>
 
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=TaherPatan&column=6&theme=algolia" alt="TaherPatanTrophy" /></p>
 
