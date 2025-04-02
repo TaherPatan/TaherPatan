@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/taherpatan](https://www.linkedin.com/in/taherpatan/)">
+    <a href="https://www.linkedin.com/in/taherpatan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -15,76 +15,91 @@
 ---
 
 ### :man_technologist: About Me :
-👋 Hey there! I'm Taher, a passionate MERN Stack Developer with a year of hands-on experience in crafting robust and scalable web applications. My journey in the world of coding began with a fascination for problem-solving, and I've honed my skills to excel in both frontend and backend development.
+👋 Hey there! I'm **Taher**, a **Software Engineer, MERN Stack Developer, Rust Enthusiast, and AI Engineer** with a deep passion for **problem-solving, system design, and open-source contributions**.  
 
-### 🎓 Education 🎓
+🚀 **Competitive Programmer** | **Codeforces Master (2100+)** | **1500+ DSA Problems Solved on LeetCode, Codeforces & More**  
 
-📚 I hold a Bachelor's degree in Computer Engineering from Mumbai University, where I achieved a remarkable CGPA of 9.7/10. This strong academic foundation has been instrumental in my technical growth and problem-solving abilities.
+🌟 **500+ Open Source Contributions** | **Cloud Enthusiast (AWS, Firebase)** | **Building Scalable and High-Performance Systems**  
 
-### 💼 What I Do 💼
+---
 
-🌐 I specialize in the MERN (MongoDB, Express.js, React, and Node.js) stack, where I create seamless user experiences, implement responsive designs, and build scalable RESTful APIs.
+### 🎓 **Education**
+📚 **Bachelor’s degree in Computer Engineering (CGPA: 9.7/10)**  
+🎯 Specialized in **System Design, Scalable Architectures, and Algorithmic Problem-Solving**  
 
-### 💡 My Expertise 💡
+---
 
-💻 Frontend: React, Redux, HTML5, CSS3, JavaScript (ES6+)
+### 💼 **What I Do**
+- **Full-Stack Development** (MERN, FastAPI, Rust, Node.js, Express.js)  
+- **Cloud Computing** (AWS, Firebase, Docker, Kubernetes)  
+- **System Design & Scalable Architectures** (LLD, HLD, Microservices, Event-Driven Systems)  
+- **AI & Automation** (Machine Learning, OpenAI APIs, LangChain)  
+- **DevOps & CI/CD** (Docker, Kubernetes, GitHub Actions, AWS Pipelines)  
+- **Open Source Contributions** (500+ PRs & commits to major projects)  
 
-📡 Backend: Node.js, Express.js, MongoDB, RESTful APIs
+---
 
-🔧 Tools & Technologies: Git, VS Code, Webpack, Babel
+### 💡 **My Tech Stack & Expertise**
+💻 **Frontend:** React, Redux, Next.js, TypeScript, HTML5, CSS3, JavaScript (ES6+)  
+⚙️ **Backend:** Node.js, Express.js, Python FastAPI, Rust  
+☁️ **Cloud & DevOps:** AWS (S3, DynamoDB, Lambda), Firebase, Docker, Kubernetes  
+📡 **Database:** MongoDB, MySQL, PostgreSQL, Redis, Elasticsearch  
+🔍 **System Design & Architecture:** Microservices, Scalable APIs, Distributed Systems  
+🛠️ **Tools & Technologies:** Git, Webpack, Babel, CI/CD, REST & GraphQL APIs  
 
-📱 Additional Skills: Responsive Web Design, User Authentication, State Management
+---
 
-### 🧠 Problem-Solving Enthusiast 🧠
-🚀 Beyond my work, I'm a dedicated coder who loves tackling algorithmic challenges. I've solved over 1000 Data Structures and Algorithms questions on LeetCode, all in Python. From intricate data manipulation to optimizing complex algorithms, I thrive on turning ideas into elegant code solutions.
+### 🏆 **Competitive Programming & Problem-Solving**
+🔥 **Codeforces Master (2100+)** | **LeetCode, Codeforces, AtCoder & More**  
+🚀 **1500+ Algorithmic Problems Solved**  
+📚 Expertise in **Graph Algorithms, DP, Advanced Data Structures, Optimization**  
 
-### 📈 Always Learning 📈
-📚 In this fast-paced tech world, I'm committed to continuous learning and staying updated with the latest advancements in the MERN stack and algorithmic problem-solving. Growth is a journey, and I'm excited to embrace it.
+---
 
-### 🔗 Let's Connect! 🔗
-📫 Feel free to reach out if you're interested in collaborating, discussing tech trends, or just geeking out about code. Together, we can build amazing things and solve intriguing coding puzzles!
+### 📈 **Continuous Learning & AI Enthusiasm**
+💡 Passionate about **AI, Machine Learning, NLP & OpenAI APIs**  
+🚀 Exploring **LLMs, AI Agents, Generative AI & Autonomous Systems**  
+
+---
+
+### 🔗 **Let's Connect!**
+📩 **Reach out for collaborations, open-source projects, or tech discussions!**  
 - [![Linkedin Badge](https://img.shields.io/static/v1?label=LinkedIn&message=TaherPatan&color=%230077b5&logo=linkedIn&logoColor=%230077b5)](https://www.linkedin.com/in/taherpatan/)
 - [![Leetcode Badge](https://img.shields.io/static/v1?label=LeetCode&message=TaherPatan&color=%FFA116&logo=leetcode&logoColor=%FFA116)](https://leetcode.com/TaherPatan/)
 - [![Twitter Badge](https://img.shields.io/badge/Twitter-TaherPatan-blue?logo=twitter&logoColor=blue)](https://twitter.com/TaherPatan)
 
-🌟 Let's code, innovate, and make the digital world a better place! 🌟
-
-
 ---
 
-### :hammer_and_wrench: Some Tools I Have Used and Learned :
+### :hammer_and_wrench: **Some Tools I Have Used and Learned**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
-### IDE, Editors and Game Engines 💻:
+### :hammer_and_wrench: **IDE, Editors and Game Engines**
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim,replit,mongodb" alt="skills logos" />
 
-### Others 💻:
+### :hammer_and_wrench: **Others**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,regex,powershell,docker,azure,sqlite,nginx,pr,ps,svg,discord,linkedin,netlify,gherkin" alt="skills logos" />
 
 ---
 
-### 👨‍💻 Top Languages Used:
+### 👨‍💻 **Top Languages Used**
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TaherPatan&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaherPatan&theme=nord_dark" alt="Top Languages by Commits" /></p>
-  
-  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-### ⚙️ &nbsp;GitHub Analytics
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaherPatan&theme=nord_dark" alt="Top Languages by Commits" />
+</p>
 
+---
+
+### ⚙️ **GitHub Analytics**
 <p align="center">
 <a href="https://github.com/TaherPatan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TaherPatan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -101,8 +116,9 @@
  ![Taher's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=TaherPatan&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
  <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="TaherPatan" /></p>
+
 <p align="center">
-  Bye!
+  🚀 **Let’s build, innovate, and push the boundaries of technology together!**  
 </p>
 
 ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
