@@ -64,9 +64,10 @@
 
 ### 🔗 **Let's Connect!**
 📩 **Reach out for collaborations, open-source projects, or tech discussions!**  
-- [![Linkedin Badge](https://img.shields.io/static/v1?label=LinkedIn&message=TaherPatan&color=%230077b5&logo=linkedIn&logoColor=%230077b5)](https://www.linkedin.com/in/taherpatan/)
-- [![Leetcode Badge](https://img.shields.io/static/v1?label=LeetCode&message=TaherPatan&color=%FFA116&logo=leetcode&logoColor=%FFA116)](https://leetcode.com/TaherPatan/)
-- [![Twitter Badge](https://img.shields.io/badge/Twitter-TaherPatan-blue?logo=twitter&logoColor=blue)](https://twitter.com/TaherPatan)
+- [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/taherpatan/)
+- [![Codeforces](https://badges.riever.dev/codeforces/Akaba_Reiji.svg)](https://codeforces.com/profile/Akaba_Reiji)
+- [![Twitter Badge](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/TaherPatan)
+<!---- [![Leetcode Badge](https://img.shields.io/static/v1?label=LeetCode&message=TaherPatan&color=%FFA116&logo=leetcode&logoColor=%FFA116)](https://leetcode.com/TaherPatan/)--->
 
 ---
 
